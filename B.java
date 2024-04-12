@@ -1,3 +1,6 @@
+// find the number of times
+// the substring is present in the main string ignoring case consideratins.
+
 import java.util.Scanner;
 
 public class  B{
