@@ -1,3 +1,6 @@
+// Write a program to enter a string and print each word alogn with the number of
+// vowels in it.
+
 import java.util.Scanner;
 
 public class A{
